@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Databricks-BR/lab_agosto_2025/main/images/header_lab.png">
+<img src="https://raw.githubusercontent.com/Databricks-BR/lab_agosto_2025/main/images/head_lab.png">
 
 # Hands-On LABs
 
@@ -10,7 +10,6 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de ma
 
 | # | Tópicos | Duração |
 | -- | -- | -- |
-
 | 01 | Introdução - Cultura de Dados e Objetivos do LAB                                   | 30 min |
 | 02 | Sobre plataforma Databricks e ao Genie + Dashboard AI / BI                         | 30 min |
 | 03 | Lab 01 - Ingestão de tabelas para uso nos laboratórios                             | 20 min |
