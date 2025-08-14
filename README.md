@@ -34,6 +34,13 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de ma
 
 </br></br>
 
+## Fontes de Dados
+
+
+* [Dados Abertos da Receita Federal](https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-08/)
+
+</br></br>
+
 ## Comunidade Databricks Brasil
 
 - Grupo no LinkedIn [Databricks Brasil - Lakehouse 🏠 🇧🇷](https://www.linkedin.com/groups/14100135)
