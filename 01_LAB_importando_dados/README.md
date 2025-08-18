@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Databricks-BR/genie_ai_bi/main/images/header_genie.png">
+<img src="https://raw.githubusercontent.com/Databricks-BR/lab_agosto_2025/main/images/head_lab.png">
 
 # Hands-On LAB 01 - Importando os dados
 
