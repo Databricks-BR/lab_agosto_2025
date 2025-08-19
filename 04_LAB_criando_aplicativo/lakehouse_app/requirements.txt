@@ -1,0 +1,7 @@
+streamlit==1.38.0
+geopandas
+keplergl
+streamlit-keplergl
+h3
+databricks-sdk
+pydeck

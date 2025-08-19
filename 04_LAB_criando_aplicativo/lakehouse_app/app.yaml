@@ -1,0 +1,13 @@
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
+env:
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    valueFrom: "sql_warehouse"
+  - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+    value: "false"
+  - name: "DATABRICKS_TABLE"
+    value: "workshop_databricks.geo_app.gold_h3_customer_locations"
